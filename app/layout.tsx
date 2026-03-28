@@ -19,6 +19,10 @@ export const metadata: Metadata = {
   keywords: ['web design', 'web development', 'performance optimization', 'conversion rate optimization', 'next.js', 'tailwind css', 'obsidian standard'],
   authors: [{ name: 'Studio Obsidian' }],
   creator: 'Studio Obsidian',
+  icons: {
+    icon: '/icon.svg',
+    apple: '/icon.svg',
+  },
   openGraph: {
     type: 'website',
     locale: 'en_US',
